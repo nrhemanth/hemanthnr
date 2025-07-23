@@ -19,7 +19,27 @@ Understanding the impact of cycling parameters on cell ageing using explainable 
 
 #### Journals
 
-8. Mohili, R., **Hemanth, N. R.**, Jin, H., Lee, K., & Chaudhari, N.  
+
+11. Yan Lin, **Hemanth, N. R.**, Anthony J Gironda, Liyan Lin, Xiaoxiao Jia, Yandong Guo, Gerald T Seidler, Tao Hu, Ulla Lassi,        Guozhong Cao
+   [K+ pre-intercalated hydrate vanadium pentoxide as cathode for enhanced stability and kinetics in sodium ion batteries](https://doi.org/10.1016/j.jpowsour.2025.237766)
+   *Journal of Power Sources*, 653, 237766, 2025.
+
+
+10. Jie Xiao and M. Stanley Whittingham et al.
+    [From Mining to Manufacturing: Scientific Challenges and Opportunities behind Battery Production](https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00980)
+    *Chemical Reviews*, 125, 13, 6397–6431, 2025.
+
+9. Souryadeep Mondal, **Hemanth, N. R.**, Xiao Ma, Shuan Cheng, Tristan Angeles, Shijing Sun
+    [Reducing Electric Vehicle Range Anxiety with Trip-Specific Charge Usage Predictions](https://chemrxiv.org/engage/chemrxiv/article-details/67d8fbd06dde43c90834e6b2)
+    *ChemRxiv*, 2025.
+
+
+8. Ranjit D Mohili, Kajal Mahabari, Monika Patel, **Hemanth, N. R.**, Arvind H Jadhav, Kwangyeol Lee and Nitin Chaudhari*
+    [HF-free low-temperature synthesis of MXene for electrochemical hydrogen production](https://iopscience.iop.org/article/10.1088/1361-6528/ada1de/meta)
+    *Nanotechnology*, 36 105401, 2025.
+
+
+7. Mohili, R., **Hemanth, N. R.**, Jin, H., Lee, K., & Chaudhari, N.  
     [Emerging high entropy metal sulphides and phosphides for electrochemical water splitting](https://doi.org/10.1039/d2ta10081a)  
     *Journal of Materials Chemistry A*, 11(20), 10463–10472, 2023.
 

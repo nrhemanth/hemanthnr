@@ -8,6 +8,11 @@ Last updated Sept 2024
 
 ## Experience
 
+#### **Graduate Research Assistant**, [UW Sun Lab](https://www.uwsunlab.com/), [University of Washington](https://www.washington.edu/) (Sept 2024 - present)
+- Project 1 – Energy-Saving Routing Optimization for Electric Delivery Vans (with Amazon) [CIDER model poster](https://nrhemanth.github.io/cider-diffusion/)
+- Project 2 – Driver Behavior-Guided Battery Usage Prediction to Mitigate EV Range Anxiety [GitHub](https://github.com/uwsunlab/EV-range-anxiety)
+- Project 3 – Smart Manufacturing Cost Modeling for Lithium Metal Batteries (with PNNL)
+
 #### **Graduate Student Researcher**, [Cao Research Group](https://depts.washington.edu/solgel/) & [UW Sun Lab](https://www.uwsunlab.com/), [University of Washington](https://www.washington.edu/) (Sept 2022 - Aug 2024)
 - Examined impact of parameters on battery degradation at different SOH levels
 - Employed statistical and explainable ML tools for modeling battery degradation
@@ -57,3 +62,11 @@ BTech, [Metallurgical and Materials Engineering](https://mme.nitk.ac.in/) *(8.08
 **Advisor**: [Prof. K Narayan Prabhu](https://mme.nitk.ac.in/faculty/k-narayan-prabhu)
 
 **Thesis**: Characterization of Paraffin Wax for Microelectronics and Thermal Energy Storage Applications
+
+
+## Awards
+
+1. Herbold Data Science Fellowship, University of Washington (2024-2025) 
+2. Mechanical Engineering Departmental Fellowship, University of Washington (2024-2025)
+3. ACS Spring 2025 Conference - Oral presentation
+4. Emerging Directions in AI for Materials and Mechanical Design Workshop at Duke University (May 2025)
